@@ -8,7 +8,7 @@ import Hero from "../components/Hero"
 function Home (){
     
     return(
-        <div className="bg-skin h-screen">
+        <div className="bg-skin h-[86vh]">
             {/* <Condition /> */}
             <Hero />
             <Footer />
