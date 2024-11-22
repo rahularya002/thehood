@@ -1,6 +1,24 @@
-# React + Vite
+Hello, 
+im trying to make a social platform for genz with like complete meme build 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# How will it work: 
+
+instead of like dislike system im working on a feature that will give users will recieve aura points by other user itself 
+- working on more features(will update this later)
+
+
+
+
+
+
+
+
+
+
+
+
+
+# React + Vite
 
 Currently, two official plugins are available:
 
